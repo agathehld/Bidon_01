@@ -5,6 +5,7 @@ public class Ex2 {
 	public static void main(String[] args) {
 		String mots1 = "";
 		System.out.println("entrer le mot FIN pour sortir");	
+		// Commentaire de test pour GIT
 		
 		do {
 			
